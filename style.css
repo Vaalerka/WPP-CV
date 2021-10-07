@@ -1,0 +1,74 @@
+/*.main-page {
+    margin: 50px 50px 50px 50px;
+}
+*/
+
+/*CV*/
+    .cv {
+      color: rgb(96, 10, 10);
+      margin: 30px 50px 50px 50px;
+      padding: 30px 500px 5px 500px;
+      letter-spacing: 3px;
+    }
+
+/*Content*/
+    .Content {
+      box-shadow: 20px 100px 20px 100px rgba(196, 34, 34, 0.1);
+      border-radius: 15px;
+      margin: 0 50px 5px 50px;
+    }
+
+/*Personas-dati*/
+    .Personas-dati {
+      line-height: 0.2em;
+      
+      
+    }
+
+    .my-photo {
+
+    }
+/*pd*/  
+    .pd {
+      margin: 0 0 0 200px;
+      /*padding: 150px 0 0 0;*/  
+        
+    }
+
+/*p-dati*/
+    .p-dati {
+      margin: 50px 500px 0 200px; 
+      
+    }
+
+/*p-dati-text*/
+    .p-dati-text {
+      margin: 50px 0 0 650px;
+      
+    }
+
+/*Izglitiba*/
+    .Izglitiba {
+        line-height: 0.2em
+    }    
+
+    .Iz-tiba {
+        margin: 0 0 0 200px;
+        padding: 150px 0 0 0; 
+    }
+
+    .Izglitiba-dati {
+      margin: 0 500px 20px 200px;    
+    }
+
+    .Izglitiba-text {
+        margin: 0 0 20px 650px;
+    }
+
+
+
+
+
+
+
+/**/
